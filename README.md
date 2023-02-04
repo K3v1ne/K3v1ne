@@ -1,15 +1,26 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <title>Error 404</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
 
+    </body>
+    <div class="allin">
+    <div class ="main">
+<span class="e">E</span>
+<span class="r">R</span>
+<span class="r1">R</span>
+<span class="o">O</span>
+<span class="r2">R</span>
+    </div>
+    <div class="four">
+        <span class="first">4</span>
+                <span class="second">0</span>
+                        <span class="third">4</span>
+    </div>
+    </div>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+</html>
